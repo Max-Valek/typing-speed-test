@@ -1,0 +1,6 @@
+Hello world my name is Max and I like to type.
+Type fast if you want to get a high score!
+This is another test block of text for this project!
+Keep typing if you love python!
+Here is another test to make sure the app is working correctly.
+I am beginning to type much faster because of this app!
